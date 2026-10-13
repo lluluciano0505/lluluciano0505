@@ -4,7 +4,6 @@
 
 **M.S. @ UPenn &nbsp;·&nbsp; Geo AI &nbsp;·&nbsp; Agent-Based Mobility &nbsp;·&nbsp; Remote Sensing**
 
-*用数据理解空间，用模型理解运动。*
 
 </div>
 
